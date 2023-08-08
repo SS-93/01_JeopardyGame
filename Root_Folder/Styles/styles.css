@@ -1,5 +1,12 @@
 body { background-color: mediumorchid; }
 .box { border: 5px dotted black; }  
-span { padding-left: 600px; }
+button { margin-left: 500px;
+    transition-duration: 0.4s;
+    background-color: green;
+    color: white;}
 
+button:hover { background-color: antiquewhite;
+    color: orange; }
+img { margin-left: 25px;}
 header { text-align: center; } 
+footer { text-align: center;}
