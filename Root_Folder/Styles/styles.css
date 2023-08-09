@@ -4,9 +4,13 @@ button { margin-left: 500px;
     transition-duration: 0.4s;
     background-color: green;
     color: white;}
+    nav {
+        display: flexbox;
+       margin-left: 200px;
+    }
 
 button:hover { background-color: antiquewhite;
     color: orange; }
-img { margin-left: 25px;}
+img { margin-left: 25px; border: solid; color: salmon;}
 header { text-align: center; } 
 footer { text-align: center;}
