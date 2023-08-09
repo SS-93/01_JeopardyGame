@@ -44,4 +44,4 @@ flex-direction: row;}
     button { display: flex; align-items: center;
         background-color: blue; color:  white; 
     margin-left: 500px;}
-        p {display: flex; justify-content:  center; align-items:  center;}
+        p {display: flex; justify-content:  center; align-items: ;}
