@@ -1,0 +1,69 @@
+body {
+    background-color: olivedrab;
+    opacity: 4.0;
+}
+
+header {
+    color: blue;
+    border: dotted 2px magenta;
+    text-align: center;
+}
+
+span {
+    display: grid;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+    color: blueviolet;
+    border-style: dashed width: 100px;
+}
+
+textarea {
+    width: 350px;
+    height: 250px;
+    margin-left: 400px;
+}
+
+.bet {
+    padding-left: 100px;
+    margin-left: 480px;
+    color: forestgreen;
+}
+
+.grid-container {
+    display: grid;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 140px;
+    margin-left: 420px;
+
+}
+
+button {
+    background-color: blue;
+    color: aquamarine;
+}
+
+button:hover {
+    box-shadow: 4px;
+    background-color: firebrick;
+    color: rebeccapurple;
+}
+
+
+input {
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    margin-left: 450px;
+
+}
+
+
+
+footer {
+    border: dashed 6px darkorchid;
+
+    text-align: center;
+}
